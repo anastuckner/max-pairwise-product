@@ -3,6 +3,9 @@ import random
 
 def MaxPPFast(n, a):
    
+   
+    #To input the sequence manually:
+      
     # n = int(input())
     # a = [int(x) for x in input().split()]
     # assert(len(a) == n)
