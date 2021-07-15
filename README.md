@@ -13,5 +13,3 @@ integers.
 Output:
 The maximum value that
 can  be  obtained  by  multiplying two different elements from the sequence.
-
-![image](https://user-images.githubusercontent.com/56557967/125847109-4bb52da6-49b4-4450-a5ce-74b85834d5e0.png)
